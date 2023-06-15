@@ -411,8 +411,21 @@ border-radius: 25px;
         text-align: left;
     }
     /*---------- Topics section end ----------*/
-
-
+    .btn
+    {
+        color: var(--third-color);
+        font-weight: 500;
+        text-transform: uppercase;
+        width: fit-content;
+    }
+    
+    
+    .btn:hover
+    {
+        transform: translateY(-10px);
+    }
+    
+    
    
 
 
