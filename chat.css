@@ -14,8 +14,8 @@ body {
     box-shadow: 2px 2px 5px hsl(0, 0%, 60%);
     padding: 1rem 1rem 2rem 1rem;
     height: var(--peekobot-height);
-    position: relative;
-    margin-left: 1009px;
+    /* position: relative; */
+    margin-left: 857px;
     margin-top: -315px;
 }
 #peekobot-inner {
